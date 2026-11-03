@@ -1,0 +1,7 @@
+PRINTED;PB-101;Война и мир (Том 1);Лев Толстой;1869;3;3;480;A-1-01;50.0;14
+PRINTED;PB-102;Преступление и наказание;Фёдор Достоевский;1866;2;2;380;A-1-02;50.0;14
+PRINTED;PB-103;Чистый код;Роберт Мартин;2008;2;2;464;B-2-05;70.0;21
+PRINTED;PB-104;Паттерны объектно-ориентированного проектирования;Эрих Гамма и др.;1994;1;1;395;B-2-06;80.0;14
+ELECTRONIC;EB-201;Effective Java (3rd Edition);Joshua Bloch;2018;10;10;PDF;15.4;https://library.local/ebooks/effective-java-3e.pdf
+ELECTRONIC;EB-202;Java Concurrency in Practice;Brian Goetz;2006;10;10;EPUB;8.2;https://library.local/ebooks/java-concurrency.epub
+ELECTRONIC;EB-203;Мастер и Маргарита;Михаил Булгаков;1967;50;50;FB2;3.1;https://library.local/ebooks/master-i-margarita.fb2
